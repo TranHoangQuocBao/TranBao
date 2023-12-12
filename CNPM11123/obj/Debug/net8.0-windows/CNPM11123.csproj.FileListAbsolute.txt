@@ -1,0 +1,16 @@
+C:\Users\tranb\source\repos\CNPM11123\CNPM11123\bin\Debug\net8.0-windows\CNPM11123.exe
+C:\Users\tranb\source\repos\CNPM11123\CNPM11123\bin\Debug\net8.0-windows\CNPM11123.deps.json
+C:\Users\tranb\source\repos\CNPM11123\CNPM11123\bin\Debug\net8.0-windows\CNPM11123.runtimeconfig.json
+C:\Users\tranb\source\repos\CNPM11123\CNPM11123\bin\Debug\net8.0-windows\CNPM11123.dll
+C:\Users\tranb\source\repos\CNPM11123\CNPM11123\bin\Debug\net8.0-windows\CNPM11123.pdb
+C:\Users\tranb\source\repos\CNPM11123\CNPM11123\obj\Debug\net8.0-windows\CNPM11123.Form1.resources
+C:\Users\tranb\source\repos\CNPM11123\CNPM11123\obj\Debug\net8.0-windows\CNPM11123.csproj.GenerateResource.cache
+C:\Users\tranb\source\repos\CNPM11123\CNPM11123\obj\Debug\net8.0-windows\CNPM11123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tranb\source\repos\CNPM11123\CNPM11123\obj\Debug\net8.0-windows\CNPM11123.AssemblyInfoInputs.cache
+C:\Users\tranb\source\repos\CNPM11123\CNPM11123\obj\Debug\net8.0-windows\CNPM11123.AssemblyInfo.cs
+C:\Users\tranb\source\repos\CNPM11123\CNPM11123\obj\Debug\net8.0-windows\CNPM11123.csproj.CoreCompileInputs.cache
+C:\Users\tranb\source\repos\CNPM11123\CNPM11123\obj\Debug\net8.0-windows\CNPM11123.dll
+C:\Users\tranb\source\repos\CNPM11123\CNPM11123\obj\Debug\net8.0-windows\refint\CNPM11123.dll
+C:\Users\tranb\source\repos\CNPM11123\CNPM11123\obj\Debug\net8.0-windows\CNPM11123.pdb
+C:\Users\tranb\source\repos\CNPM11123\CNPM11123\obj\Debug\net8.0-windows\CNPM11123.genruntimeconfig.cache
+C:\Users\tranb\source\repos\CNPM11123\CNPM11123\obj\Debug\net8.0-windows\ref\CNPM11123.dll
